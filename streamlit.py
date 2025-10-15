@@ -6,7 +6,7 @@ from src.exception import CustomException
 import sys
 
 # Title
-st.title("🚲 Number of Bike Rental Requests ")
+st.title("🚲 Number Rental Requests ")
 
 # Input Section
 st.header("📋 Input Features")
