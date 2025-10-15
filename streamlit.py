@@ -8,7 +8,7 @@ import sys
 st.title("🚲 Bike Rental Demand Predictor")
 
 # Sidebar Inputs
-st.sidebar.header("📋 Features")
+st.header("📋 Features")
 
 season = st.sidebar.selectbox(
     "Season",
